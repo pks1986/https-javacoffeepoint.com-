@@ -3,9 +3,6 @@ package com.src.practice;
 import java.util.HashMap;
 import java.util.Map;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /* Time Complexity:
 
 The program iterates through each entry in the scores array exactly once.
